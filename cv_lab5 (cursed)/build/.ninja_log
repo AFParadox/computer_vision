@@ -1,0 +1,6 @@
+# ninja log v5
+7	129	1653990338407039048	CMakeFiles/lab5_library.dir/src/task3.cpp.o	928750836c1819bd
+7	124	1653990338407039048	CMakeFiles/lab5_library.dir/src/task2.cpp.o	d5de62fe117aef4d
+7	118	1653990338400372383	CMakeFiles/lab5_library.dir/src/methods.cpp.o	32bf1f8f7b7ac499
+1447	2078	1653984950650141965	cv_lab5	b1ac63ad9ed7487f
+2	1447	1653984950023482624	CMakeFiles/cv_lab5.dir/src/main.cpp.o	34dae67237916773

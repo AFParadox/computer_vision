@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/leonardo/Documents/Codes/cv_lab2/lab2_1/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/lab2_1.dir/main.cpp.o -c /home/leonardo/Documents/Codes/cv_lab2/lab2_1/main.cpp",
+  "file": "/home/leonardo/Documents/Codes/cv_lab2/lab2_1/main.cpp"
+}
+]

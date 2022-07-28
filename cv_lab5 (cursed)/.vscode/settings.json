@@ -1,0 +1,14 @@
+{
+    "cmake.debugConfig": {
+        "args": [
+            "1",
+            "../docs/Asphalt-1.png"
+        ]
+    },
+    "files.associations": {
+        "stdexcept": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab5/build",
+  "command": "/usr/bin/g++ -I/usr/include/opencv4 -I/home/leonaro/Documents/Codes/cv_lab5/headers -g -o CMakeFiles/lab5_library.dir/src/task1.cpp.o -c /home/leonaro/Documents/Codes/cv_lab5/src/task1.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab5/src/task1.cpp"
+},
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab5/build",
+  "command": "/usr/bin/g++ -I/usr/include/opencv4 -I/home/leonaro/Documents/Codes/cv_lab5/headers -g -o CMakeFiles/lab5_library.dir/src/task2.cpp.o -c /home/leonaro/Documents/Codes/cv_lab5/src/task2.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab5/src/task2.cpp"
+},
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab5/build",
+  "command": "/usr/bin/g++ -I/usr/include/opencv4 -I/home/leonaro/Documents/Codes/cv_lab5/headers -g -o CMakeFiles/lab5_library.dir/src/task3.cpp.o -c /home/leonaro/Documents/Codes/cv_lab5/src/task3.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab5/src/task3.cpp"
+},
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab5/build",
+  "command": "/usr/bin/g++ -I/usr/include/opencv4 -I/home/leonaro/Documents/Codes/cv_lab5/headers -g -o CMakeFiles/lab5_library.dir/src/methods.cpp.o -c /home/leonaro/Documents/Codes/cv_lab5/src/methods.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab5/src/methods.cpp"
+},
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab5/build",
+  "command": "/usr/bin/g++ -I/home/leonaro/Documents/Codes/cv_lab5/headers -isystem /usr/include/opencv4 -g -o src/CMakeFiles/cv_lab5.dir/main.cpp.o -c /home/leonaro/Documents/Codes/cv_lab5/src/main.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab5/src/main.cpp"
+}
+]

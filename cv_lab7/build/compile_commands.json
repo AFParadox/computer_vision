@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab7/build",
+  "command": "/usr/bin/g++ -I/home/leonaro/Documents/Codes/cv_lab7/Code/header -isystem /usr/include/opencv4 -g -o CMakeFiles/cv_lab7.dir/Code/main.cpp.o -c /home/leonaro/Documents/Codes/cv_lab7/Code/main.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab7/Code/main.cpp"
+},
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab7/build",
+  "command": "/usr/bin/g++ -I/home/leonaro/Documents/Codes/cv_lab7/Code/header -isystem /usr/include/opencv4 -g -o CMakeFiles/cv_lab7.dir/Code/panoramic_utils.cpp.o -c /home/leonaro/Documents/Codes/cv_lab7/Code/panoramic_utils.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab7/Code/panoramic_utils.cpp"
+},
+{
+  "directory": "/home/leonaro/Documents/Codes/cv_lab7/build",
+  "command": "/usr/bin/g++ -I/home/leonaro/Documents/Codes/cv_lab7/Code/header -isystem /usr/include/opencv4 -g -o CMakeFiles/cv_lab7.dir/Code/panoramic_img.cpp.o -c /home/leonaro/Documents/Codes/cv_lab7/Code/panoramic_img.cpp",
+  "file": "/home/leonaro/Documents/Codes/cv_lab7/Code/panoramic_img.cpp"
+}
+]

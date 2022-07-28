@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/leonardo/Documents/Codes/cv_lab2_submission/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/cv_lab2_submission.dir/main.cpp.o -c /home/leonardo/Documents/Codes/cv_lab2_submission/main.cpp",
+  "file": "/home/leonardo/Documents/Codes/cv_lab2_submission/main.cpp"
+},
+{
+  "directory": "/home/leonardo/Documents/Codes/cv_lab2_submission/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/cv_lab2_submission.dir/minmax_filters.cpp.o -c /home/leonardo/Documents/Codes/cv_lab2_submission/minmax_filters.cpp",
+  "file": "/home/leonardo/Documents/Codes/cv_lab2_submission/minmax_filters.cpp"
+}
+]
